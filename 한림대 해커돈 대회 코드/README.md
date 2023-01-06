@@ -1,5 +1,7 @@
 # 한림대 헬스케어 헤커톤 대회
 
+![image](https://user-images.githubusercontent.com/67576850/210955651-34af3467-b749-4475-bedb-710d50f98f0b.png)
+
 * 분석내용
   * 목표:제공된 보행데이터를 이용하여 정상보행자와 비정상 보행자 분류
   * 활용툴: Python
