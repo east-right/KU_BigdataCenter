@@ -1,6 +1,7 @@
 # 한림대 헬스케어 헤커톤 대회
 
-![한림대 포스터](https://user-images.githubusercontent.com/67576850/210955995-cff5546f-7a7e-47d9-b25c-ac6456aac9b7.png)
+![한림대포포스토](https://user-images.githubusercontent.com/67576850/210956139-30dc9e16-3484-40a5-a274-2acd5e883972.png)
+
 
 
 * 분석내용
