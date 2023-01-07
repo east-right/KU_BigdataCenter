@@ -26,3 +26,16 @@
   * 중간에 PCA/tsne 와 같은 차원축소 기법에 대해 공부함
   * 중간에 AUTO ENCODER를 사용해보기 위해 많은 공부를 하였다.
   * 학습된 모델을 저장하는 습관을 기르자
+
+
+![슬라이드1](https://user-images.githubusercontent.com/67576850/211143242-643bd87e-87c8-4ba5-84ca-c275ac99b643.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/67576850/211143245-f47b88d3-1843-4f3b-9b3f-71153ad155a2.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/67576850/211143246-0a11ebc0-a9a8-4f0a-a4c8-49c263f67772.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/67576850/211143248-1aec8e9f-f60b-4d02-b6ac-f747db423ecf.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/67576850/211143249-0efa4c49-468d-449e-a920-6ffba2b8c951.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/67576850/211143250-add7e478-abaf-460f-8601-6b4d0156d8dc.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/67576850/211143251-f4f58b8b-539d-4aa8-a789-bd42ac7aa3b0.JPG)
+![슬라이드8](https://user-images.githubusercontent.com/67576850/211143252-c0700a24-0857-498f-9046-f2ec37ebbbfb.JPG)
+![슬라이드9](https://user-images.githubusercontent.com/67576850/211143253-d4136320-2d77-4197-9487-0de357ca9f28.JPG)
+![슬라이드10](https://user-images.githubusercontent.com/67576850/211143254-b48d408d-43ef-4a62-bc3b-2c62fdb199a9.JPG)
+![슬라이드11](https://user-images.githubusercontent.com/67576850/211143255-22639030-236e-446f-b42a-cb2bfab4b72b.JPG)
