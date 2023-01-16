@@ -1,6 +1,7 @@
 # 창원시 제조데이터 경진대회
 
-![image](https://user-images.githubusercontent.com/67576850/211140746-0c651394-d184-4214-8b4c-01f191326b9c.png)
+![image](https://user-images.githubusercontent.com/67576850/212618167-4038bf3b-5460-4222-9c26-19e509848772.png)
+
 
 
 
